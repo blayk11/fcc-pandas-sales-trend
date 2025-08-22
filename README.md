@@ -7,6 +7,13 @@ notebooks/ # notebook
 reports/ # imagens/artefatos gerados
 ```
 --------
+## Resultado
+```
+Média de idade dos clientes: ~35 anos.
+Pico de pedidos em meados de 2014.
+Correlação baixa entre idade e quantidade de pedidos.
+```
+--------
 ### Fonte dos dados
 
 #### Inspirado em: FreeCodeCamp – Pandas Real Life Example (Exercício 1).
